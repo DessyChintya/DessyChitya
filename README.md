@@ -1,6 +1,6 @@
 # Tugas-Latex-dan-Markdown
 ## Nama  : Dessy Chintya Nur Feika
-##Kelas  : Matematika E 2022
+## Kelas  : Matematika E 2022
 ## NIM   : 22305141023
 
 ## Ini adalah Tugas Mata Kuliah Aplikasi Komputer. Cek hasil pekerjaan saya di link berikut [APLIKOM.pdf](https://github.com/DessyChintya/DessyChitya/files/13526626/APLIKOM.pdf)
